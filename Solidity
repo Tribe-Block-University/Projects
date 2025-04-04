@@ -1,9 +1,10 @@
 # Building a Sample Project
 
 ### Project: Simple Voting dApp
-Here’s a basic voting contract:
+Here’s a basic voting contract: 
+
 ```
-// SPDX-License-Identifier: MIT
+SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
 contract Voting {
